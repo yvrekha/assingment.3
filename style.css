@@ -1,0 +1,40 @@
+ h1{
+    color: rgb(221, 140, 33);
+    font-size:x-large;
+    text-align: center;
+ }
+ p{
+    font-size:x-large;
+    text-decoration: solid;
+
+ }
+ ul{
+     font-style: oblique;
+     color:blue;
+     font-size:x-large;
+
+  }
+  h4{
+
+      font-size:large;
+       color: greenyellow;
+    }
+ hr{
+
+    font-style: oblique;
+    color:black;
+ }
+ body{
+
+    background:rgb(130, 143, 130);
+
+ }
+ .uistyle{
+
+   font-size:large;
+   color:greenyellow;
+ }
+ #cssstyles{
+    color: rgb(165, 25, 95);
+    font-size:xx-large;
+ }
